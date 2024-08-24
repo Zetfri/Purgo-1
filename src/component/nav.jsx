@@ -29,7 +29,7 @@ const Nav = () => {
         </div>
         <div className="w-full h-full flex justify-center items-center">
           <div className="w-[50%] h-full pt-20 flex flex-col justify-start items-center sm:w-full sm:pt-10">
-            <h1 className="text-white text-[60px] w-[736px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:px-4 leading-[70px] ml-[90px]">
+            <h1 className="text-white text-[60px] w-[736px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:ml-[30px]  leading-[70px] ml-[90px]">
               Гарантированные и качественные сантехнические услуги
             </h1>
             <button
