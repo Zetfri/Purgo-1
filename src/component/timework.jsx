@@ -41,7 +41,7 @@ const Timework = () => {
                 {
                     cards.map((index, item) => (
                         <div className='w-[320px] h-[295px] bg-[#F1F5FE] rounded-[20px] p-7'>
-                            <div className='w-full flex justify-between items-center'>
+                            <div className='w-full flex justify-between items-center    '>
                                 <span className='w-[40px] h-[40px] bg-[#ADC6FE] text-[20px] flex justify-center items-center rounded-full text-[#3D3D3D] font-semibold'>{index.number}</span>
                                 <img src={index.img} alt="" className='w-[24px] h-[24px]'/>
                             </div>

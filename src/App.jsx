@@ -1,5 +1,4 @@
-import React from 'react';
-
+import React from "react";
 import {Routes, Route} from "react-router-dom";
 import Nav from './component/nav';
 import Company from './component/company';
@@ -10,7 +9,7 @@ import Timework from './component/timework';
 
 
 function App(props) {
-
+    
 
     return (
         <div className="bg-[#E3E3E3]">

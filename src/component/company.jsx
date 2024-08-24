@@ -7,7 +7,7 @@ const Company = () => {
         <div>
             <div className='w-full h-[450px] flex sm:flex-col bg-[#E3E3E3] px-10 sm:px-4 sm:gap-4 sm:h-auto sm:py-10'>
                 <div className='w-[50%] h-full sm:w-full flex flex-col px-10 pt-20 sm:px-0 sm:pt-0'>
-                    <button className='w-[160px] h-[40px] bg-[#81818133] mt-0 rounded-[90px] text-[#292AFF] sm:mt-0 ' style={{fontWeight: "600"}}>О компании</button>
+                    <button className='w-[160px] h-[40px] bg-[#81818133] mb-10 rounded-[90px] text-[#292AFF] sm:mb-2 ' style={{fontWeight: "600"}}>О компании</button>
                     <p className='text-[30px] sm:mt-2' style={{fontWeight: "500", lineHeight: "36.63px"}}>Компания <span className='text-[#292AFF]' style={{fontWeight: "600"}}>Purgo</span> Профессионально на высоком уровне качества выполняет все виды сантехнических работ в Ангрене и Ташкентской области.</p>
                 </div>
                 <div className='w-[50%] h-full mt-[-50px] pt-32 sm:pt-0 sm:mt-0 sm:w-full flex justify-center items-center flex-col'>
